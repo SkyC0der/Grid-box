@@ -1,0 +1,29 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "devc benin code challenge day 20",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^25.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevCbenin/code-challenge-javascript-day-20.git"
+  },
+  "keywords": [
+    "challenge",
+    "facebook",
+    "devc",
+    "benin-city"
+  ],
+  "author": "samson ehigiator",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevCbenin/code-challenge-javascript-day-20/issues"
+  },
+  "homepage": "https://github.com/DevCbenin/code-challenge-javascript-day-20#readme"
+}
